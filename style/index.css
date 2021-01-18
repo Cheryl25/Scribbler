@@ -27,7 +27,9 @@
   font-family: Arial, Helvetica, sans-serif;
  }
 
- 
+  .postbutton:hover{
+   opacity:0.8;
+}
 
 
 
